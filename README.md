@@ -1,5 +1,6 @@
 # WatchIP
 Monitor changes in the external network ip。监控外网IP变化，并发邮件通知。
+使用场景：有公网IP，但是会变化。此时可以邮件通知。或者使用DDNS。
 
 ## 默认配置文件
 ```
