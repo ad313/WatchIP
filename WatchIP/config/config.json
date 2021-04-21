@@ -1,0 +1,14 @@
+﻿{
+  "Email": {
+    "DisableOAuth": true,
+    "DisplayName": "WatchIP",
+    "Host": "smtp.exmail.qq.com",
+    "Account": "你的服务邮箱账号",
+    "Password": "你的服务邮箱密码",
+    "Port": 25,
+    "ConnectionPoolSize": 1,
+    "Enable": true,
+    "To": "接收人邮箱地址"
+  },
+  "Delay": 600
+}
